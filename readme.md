@@ -6,4 +6,3 @@ GPS fix
 - lib/hw/gps.mt6580.so
 - lib/libmnl.so
 - xbin/mnld
-
